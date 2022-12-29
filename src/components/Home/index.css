@@ -1,0 +1,39 @@
+.website-logo {
+  height: 70px;
+  width: 200px;
+}
+
+.header-container {
+  background-color: #f1f5f9;
+
+  padding-left: 40px;
+}
+.select-container {
+  margin: 20px;
+  padding-left: 40px;
+}
+
+.select-card {
+  height: 30px;
+  width: 300px;
+}
+.project-container {
+  padding-top: 30px;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.products-loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.products-error-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
